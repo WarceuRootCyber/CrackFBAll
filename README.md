@@ -1,6 +1,6 @@
 # CrackFBAll
 
-#This Command :
+# This Command :
 pkg install python2 
 pkg install git
 pip2 install requests
@@ -9,4 +9,4 @@ git clone https://github.com/WarceuRootCyber/CrackFBAll
 cd CrackFBAll
 python2 All.py
 
-#Whatsapp :083876915082
+# Whatsapp :083876915082
